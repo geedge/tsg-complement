@@ -1,3 +1,8 @@
 # tsg-complement
 
 TSG项目 storm补全等基于日志的业务迁移Flume代码集合
+
+
+dynamic_complement-FlumeRadiusOnOffInterceptor 对应Radius上下线代码。
+
+dynamic_complement-FlumeSubscriberInterceptor 对应Radius写入HBase代码。
